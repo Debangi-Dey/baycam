@@ -1,0 +1,19 @@
+
+.heading
+{
+    margin-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+font-size: 23px;
+width: 100%;
+
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas {
+    margin-top:60px;
+    box-shadow: 3px 3px 5px burlywood;
+}
